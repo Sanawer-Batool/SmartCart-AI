@@ -8,7 +8,7 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 env_path = os.path.join(script_dir, '.env')
 
 # Content for .env file
-env_content = """GOOGLE_API_KEY=AIzaSyADh8OOzgqaxnbvAtjcyt32d8RGqSaYyqE
+env_content = """GOOGLE_API_KEY=YOUR_KEY
 HOST=0.0.0.0
 PORT=8000
 DEBUG=True
