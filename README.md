@@ -17,6 +17,9 @@ An autonomous AI agent that can browse e-commerce websites, search for products,
 - 🌐 **Multi-site Support**: Works with Amazon, eBay, Shopify, and more
 - 🧠 **LangGraph Workflow**: Structured agentic loop with observe-reason-act pattern
 
+  <img width="1784" height="894" alt="image" src="https://github.com/user-attachments/assets/39c7c467-4811-4c0b-ac67-3164ed77e3cd" />
+
+
 ## 🏗️ Architecture
 
 ### Tech Stack
